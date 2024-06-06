@@ -1,11 +1,11 @@
 # Release Please Monorepo Example
 
-Welcome to the **Release Please Monorepo Example** repository! 
+Welcome to the **Release Please Monorepo Example** repository!
 This repository is designed to showcase the usage of **release-please** in a monorepo setup.
 
 ## Overview
 
-This example demonstrates how to automate versioning and changelog generation for multiple packages within a single repository using **release-please**. 
+This example demonstrates how to automate versioning and changelog generation for multiple packages within a single repository using **release-please**.
 
 ## Project Structure
 
@@ -30,7 +30,7 @@ or [watch my youtube tutorial](https://youtu.be/70YgbPh6pXA).
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request
 
 ## License
 
