@@ -30,7 +30,7 @@ or [watch my youtube tutorial](https://youtu.be/70YgbPh6pXA).
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request
+Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
 
 ## License
 
